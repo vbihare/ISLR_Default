@@ -1,4 +1,5 @@
-# ISLR_Default(Logistic Regression)
+# Default_Dataset(Logistic Regression)
+This dataset is available in the ISLR package in R-Studios.
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).
 Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
 
